@@ -1,0 +1,7 @@
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\obj\Debug\cli-rat.csprojResolveAssemblyReference.cache
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\obj\Debug\cli_rat.MainForm.resources
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\obj\Debug\cli-rat.csproj.GenerateResource.Cache
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\bin\Debug\cli-rat.exe
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\bin\Debug\cli-rat.pdb
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\obj\Debug\cli-rat.exe
+C:\Users\Rodrino\Documents\SharpDevelop Projects\cli-rat\cli-rat\obj\Debug\cli-rat.pdb

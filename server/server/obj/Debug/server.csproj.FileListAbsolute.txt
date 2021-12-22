@@ -1,0 +1,7 @@
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\bin\Debug\server.exe
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\bin\Debug\server.pdb
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\obj\Debug\server.MainForm.resources
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\obj\Debug\server.exe
+C:\Users\Rodrino\Documents\SharpDevelop Projects\server\server\obj\Debug\server.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cli-rat", "cli-rat\cli-rat.csproj", "{CCDF4F29-4C6E-45FB-8DEB-2BE5138A7D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDF4F29-4C6E-45FB-8DEB-2BE5138A7D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDF4F29-4C6E-45FB-8DEB-2BE5138A7D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDF4F29-4C6E-45FB-8DEB-2BE5138A7D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDF4F29-4C6E-45FB-8DEB-2BE5138A7D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
